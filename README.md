@@ -73,11 +73,11 @@ Figura 8. Rute pentru Categorii
 
  ![9](https://user-images.githubusercontent.com/72390524/168484185-f255b27c-b4bb-4ffe-8dcc-71335e15ceb4.png)
 
-Figura 9. Contoler categorii
+Figura 9. Controler categorii
 
 **Prezentare aplicatie**
 
-JuniorVison este o aplicație ușor de utilizat, cu o navigare clară, bine definită, care îi ajută pe vizitatori să găsească ce doresc și ce au nevoie într-un mod rapid. Aplicația poate fi prezentată din mai multe perspective, în funcție de tipul de utilizator (neautentificat, autentificat, administrator), dar toate au o bază comună, cu excepția administratorului ce prezintă anumite sarcini speciale. Pentru început, înainte de a descrie întreaga aplicație, de menționat este faptul că meniul de navigare (Figura 34) este păstrat la un nivel superior. Acesta este vizibil întotdeauna în partea de sus a ecranului, indiferent de pagina accesată.
+JuniorVision este o aplicație ușor de utilizat, cu o navigare clară, bine definită, care îi ajută pe vizitatori să găsească ce doresc și ce au nevoie într-un mod rapid. Aplicația poate fi prezentată din mai multe perspective, în funcție de tipul de utilizator (neautentificat, autentificat, administrator), dar toate au o bază comună, cu excepția administratorului ce prezintă anumite sarcini speciale. Pentru început, înainte de a descrie întreaga aplicație, de menționat este faptul că meniul de navigare (Figura 34) este păstrat la un nivel superior. Acesta este vizibil întotdeauna în partea de sus a ecranului, indiferent de pagina accesată.
 
 Paginile de înregistrare și autentificare Etapa de înregistrare se poate realiza în două moduri și prezintă mai mulți pași. O primă variantă este crearea unui cont cu ajutorul unei adrese de email valide și introducerea unei parole alese de utilizator. Pagina principală a acestei etape (Figura 35), are un aspect simplu, fără a pune în dificultate clientul. Pentru început acesta trebuie să completeze un singur câmp (1). După introducerea unui email valid, va fi trimis un mesaj de confirmare (2), unde prin accesarea adresei primite (3), se va deschide din nou pagina de înregistrare, cu email-ul setat implicit și câmpul pentru introducerea parolei (4). 
 O a doua variantă este conectarea prin intermediul unui cont Google. Acest lucru se poate realiza direct din pagina de autentificare, fără a fi nevoie de alți pași.
@@ -105,7 +105,7 @@ Pagina de Home este identică pentru orice tip de utilizator.
 
 Figura 15. Pagina principală
 
-De asemenea, se pot vizualiza în detaliu detaliile despre un anumit curs.
+De asemenea, se pot vizualiza în detaliu informațiile despre un anumit curs.
 
 ![16](https://user-images.githubusercontent.com/72390524/168484193-ac17d0d3-4974-4347-a092-b94608a20fc8.png) 
 
