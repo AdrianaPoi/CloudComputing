@@ -3,7 +3,7 @@
 # Poinărescu Adriana Daniela
 # SIMPRE, an 1
 
-# Link video: 
+# Link video: https://www.youtube.com/watch?v=zRIdAkaBHgg&ab_channel=AdrianaPoinarescu
 
 **Introducere**
 
